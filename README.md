@@ -1,6 +1,6 @@
 # AlzheimerNER
 
-AlzheimerNER is a specialized text mining project that analyzes clinical trial eligibility criteria for Alzheimer’s disease. It harnesses Natural Language Processing (NLP) and Machine Learning to transform complex, unstructured clinical language into structured, meaningful data.
+AlzheimerNER is a specialized text mining project that analyzes clinical trial eligibility criteria for Alzheimer’s disease. It harnesses Natural Language Processing (NLP) and Machine Learning to transform complex, unstructured clinical language into structured and meaningful data.
 
 At its core, the project features a custom Named Entity Recognition (NER) model built using BERT (Bidirectional Encoder Representations from Transformers), specifically fine-tuned for biomedical and clinical contexts. Leveraging the transformers and bert packages, the model accurately extracts and classifies critical clinical entities such as:
 
