@@ -1,4 +1,4 @@
-#AzheimerNER
+# AzheimerNER
 
 AlzheimerNER is a specialized text mining project that analyzes clinical trial eligibility criteria for Alzheimer’s disease. It harnesses Natural Language Processing (NLP) and Machine Learning to transform complex, unstructured clinical language into structured and meaningful data.
 
