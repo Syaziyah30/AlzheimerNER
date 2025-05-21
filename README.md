@@ -14,6 +14,6 @@ At its core, the project features a custom Named Entity Recognition (NER) model 
 
 👤 Patient Demographic
 
-This project empowers researchers to extract actionable insights from free-text eligibility criteria, supporting improved study design, patient recruitment, and analysis in Alzheimer’s research.
+This project empowers researchers to extract actionable insights from free-text eligibility criteria, supporting improved study design, patient recruitment and analysis in Alzheimer’s research.
 
 
