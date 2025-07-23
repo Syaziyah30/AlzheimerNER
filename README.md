@@ -74,11 +74,15 @@ The model identifies and classifies the following key entities:
  - 📖 Custom **domain-specific medical dictionaries**  
 
 ---
+<details>
+<summary>✨ <strong>Personal Note</strong></summary>
 
-## ✨ Personal Note
-This was my **first Machine Learning and NLP project**, developed from scratch with no prior coding experience. I learned and picked up everything I needed through online courses, tutorials, and the support of AI tools.
+This was my **first Machine Learning and NLP project**, developed from scratch with no prior coding experience.  
+I learned and picked up everything I needed through online courses, tutorials, and the support of AI tools.
 
-What began as a personal challenge has grown into something I’m proud of. This project stands as proof of my adaptability, determination, and ability to start from zero and keep moving forward.
+What began as a personal challenge has grown into something I’m proud of.  
+This project stands as proof of my adaptability, determination, and ability to start from zero and keep moving forward.
 
+</details>
 
 ---
