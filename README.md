@@ -66,7 +66,8 @@ The model identifies and classifies the following key entities:
   - `json`
   - `re` 
   - `pathlib.Path` 
-  - `pandas`  
+  - `pandas`
+  - `numpy`
   - `scikit-learn`:  
     - `train_test_split`  
     - `classification_report`  
